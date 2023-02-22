@@ -33,6 +33,8 @@ There are two things that I expect to learn regarding this project:
 
 ## Conclusion
 
+In conclusion there this early exploration of pixel relationships bolsters well for a potential Graph Machine Learning project. Due to time constraints and the need to work with full images we were unable to complete a model before the end of the term. As there is little in terms of utilizing a graph ml structure to analyze photos we would classify this project as a success.
+
 
 ## References
 
