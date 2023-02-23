@@ -2,9 +2,9 @@
 
 ## Abstract
 
-In this project, I have attempted to Represent digital images (euclidean space as a graph in non-euclidean space. To create this mapping, I plan on making a finite set of nodes based on the (r, g, b) values. The edges will represent if the pixel is next to another node. These edges will have weights for how often the relationship is seen in the image. The theory is that in unaltered images, these physical relationships should indicate similarity, and any outliers are indicators of a change.
+In this project, we have attempted to Represent digital images (euclidean space as a graph in non-euclidean space. To create this mapping, we plan on making a finite set of nodes based on the (r, g, b) values. The edges will represent if the pixel is next to another node. These edges will have weights for how often the relationship is seen in the image. The theory is that in unaltered images, these physical relationships should indicate similarity, and any outliers are indicators of a change.
 
-In an environment that is constantly becoming more online-centric, distinguishing truth from fiction is increasingly tricky. Online people try to control how they appear. Even more recently, AI-generated art has caused a stir as artists panic about the future. The ability to empirically tell if something is real/untampered or generated/edited would be crucial in using images as evidence.
+In an environment that is constantly becoming more online-centric, distinguishing truth from fiction is increasingly tricky. Online people try to control how they appear. Even more recently, AI-generated art has caused a stir as artists panic about the future. The ability to empirically tell if something is real/untampered or generated/edited would be crucial in using images as evidence. With this project we hope to prove the viability of graphs for image analysis.
 
 
 ### Other Solutions
@@ -15,15 +15,15 @@ In an environment that is constantly becoming more online-centric, distinguishin
 
 ### Dataset
 
-There are many private datasets for this problem. For this investigation I have selected a public dataset from Technische Fakultä as it contains 48 unedited images across four cameras. An added benefit to this dataset is the documented steps to create the altered images. Many current phones use automatic image processing to enhance the image fortunately these cameras do not contain this behavior.
+There are many private datasets for this problem. For this investigation we have selected a public dataset from Technische Fakultä as it contains 48 unedited images across four cameras. An added benefit to this dataset is the documented steps to create the altered images. Many current phones use automatic image processing to enhance the image fortunately these cameras do not contain this behavior.
 
 
 
 ### Expected Learning
 
-There are two things that I expect to learn regarding this project:
-1. Since this is very experimental, my understanding of euclidean and non-euclidean space will be increased. Due to the ordering of pixels, photos are in euclidean space; conversely, graphs, by nature, are not.
-2. There are no papers on this specific approach, so I will build my graph network from scratch. I learn best by implementing concepts meaning my comprehension of graph neural networks will dramatically increase.
+There are two things that we expect to learn regarding this project:
+1. Since this is very experimental, our understanding of euclidean and non-euclidean space will be increased. Due to the ordering of pixels, photos are in euclidean space; conversely, graphs, by nature, are not.
+2. There are no papers on this specific approach, so we will build my graph network from scratch. We learn best by implementing concepts meaning my comprehension of graph neural networks will dramatically increase.
 
 
 ## Introduction
