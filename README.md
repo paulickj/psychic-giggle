@@ -76,7 +76,7 @@ This is the origional image from the image dataset.
 
 The same dataset provided an edited image where one of the spots were moved.
 
-![Modifyed Giraffe](./benchmark_data/C4_flickr/giraffe_copypng)
+![Modifyed Giraffe](./benchmark_data/C4_flickr/giraffe_copy.png)
 
 
 Coloring the outlyers with orange we get the following image in which we can see where the natural ratio was altered. Around these places we can clearly see where the edits were made.
